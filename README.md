@@ -5,7 +5,7 @@
 
 
 
-🧰 Acabo de aplicar mis conocimientos avanzados en:
+**🧰 Acabo de aplicar mis conocimientos avanzados en:**
 
 
 
@@ -18,6 +18,7 @@
 📈 Análisis Estadístico
 
 🎨 Visualización de Datos
+
 
 
 **✏️ Descripción del proyecto:**
