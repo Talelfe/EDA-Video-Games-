@@ -29,7 +29,7 @@ Esta iniciativa fue crucial para detectar proyectos prometedores y optimizar la 
 
 **🪜 Etapas del Proyecto:**
 
-* Descrición de los Datos
+* Descripción de los Datos
 * Procesamiento de Datos
 * Análisis Exploratorio de Datos
 * Visualización
