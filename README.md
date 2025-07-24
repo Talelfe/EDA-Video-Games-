@@ -27,15 +27,6 @@ En un proyecto clave para Ice, una tienda global de videojuegos. Mi objetivo fue
 
 Esta iniciativa fue crucial para detectar proyectos prometedores y optimizar la planificación de campañas publicitarias para 2017, utilizando datos hasta 2016. 
 
-**🪜 Etapas del Proyecto:**
-
-* Descripción de los Datos
-* Procesamiento de Datos
-* Análisis Exploratorio de Datos
-* Visualización
-* Pruebas de Estadística
-* Conclusiones
-
 
 **⛰️ El Reto:**
 
