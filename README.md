@@ -16,10 +16,3 @@ Identificación de patrones de éxito en el mercado global de videojuegos. Reali
 
 ## 🏔️ El Reto
 El principal reto fue procesar y conciliar un gran volumen de datos históricos (hasta 2016) para encontrar las correlaciones y tendencias más robustas que pudieran predecir el éxito en el futuro inmediato del mercado de juegos, superando la limitación de la data de solo ventas brutas.
-
-
-
-
-
-
-
